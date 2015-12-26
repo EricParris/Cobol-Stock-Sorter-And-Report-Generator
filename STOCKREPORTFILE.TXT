@@ -1,0 +1,623 @@
+                        STOCK ANALYSIS                ENP
+                       1993 TO PRESENT
+
+  ID: A1
+NAME: John
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A2
+NAME: Donny
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A3
+NAME: Fred
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A4
+NAME: Betty
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A5
+NAME: Marge
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A6
+NAME: Alice
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A7
+NAME: Bill
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A8
+NAME: Sally
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: A9
+NAME: Mike
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B1
+NAME: Stan
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B2
+NAME: Hiram
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B3
+NAME: Dave
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B4
+NAME: Mark
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B5
+NAME: Will
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B6
+NAME: Bob
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B7
+NAME: Penny
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: B8
+NAME: Bart
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C1
+NAME: Helen
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C2
+NAME: Carl
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C3
+NAME: Harry
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C4
+NAME: Bonny
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C5
+NAME: Ed
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C6
+NAME: Mary
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: C7
+NAME: Peter
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D*
+NAME: Donny
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D1
+NAME: John
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D1
+NAME: Micky
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D2
+NAME: Betty
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D2
+NAME: Tina
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D3
+NAME: Fred
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D3
+NAME: Sean
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D5
+NAME: Bill
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D6
+NAME: Alice
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: D7
+NAME: Marge
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: E1
+NAME: Brett
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: E2
+NAME: Mal
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: E3
+NAME: Fran
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: E4
+NAME: Sam
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: E5
+NAME: Geoff
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: F1
+NAME: Cheeb
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: F2
+NAME: Else
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: F3
+NAME: Hal
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: F4
+NAME: Ann
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+  ID: F5
+NAME: Chet
+                     YEAR   NUM OF  PRICE     ORIGINAL
+  SYMBOL  EXCHANGE  BOUGHT  SHARES  PER SH   STOCK VALUE
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+SWAG
+
+  RATING:                           TOTAL          $0.00
+
+
+
+                   TOTAL FOR REGION:               $0.00
+
+                 GRAND TOTAL:                      $0.00
